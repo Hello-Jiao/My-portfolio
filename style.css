@@ -1,0 +1,57 @@
+.header {
+  display: flex;
+  justify-content: space-evenly;
+}
+h1 {
+  /* Jiao Wang */
+  position: absolute;
+  width: 224px;
+  height: 58px;
+  left: 111px;
+  top: 20 px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 58px;
+  /* identical to box height */
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  float: left;
+  margin: 30px;
+}
+li a {
+  text-decoration: none;
+  color: black;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24 px;
+  display: block;
+}
+.menu {
+  position: absolute;
+  left: 1097px;
+  top: 44px;
+}
+.homepagecontent {
+  position: absolute;
+  width: 1150px;
+  height: 139px;
+  left: 145px;
+  top: 212px;
+}
+p {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 43px;
+}
